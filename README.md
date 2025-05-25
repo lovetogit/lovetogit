@@ -1,7 +1,3 @@
- ____ ___  __
-|__  / _ \/ /  __ __
-  / /\_, / _ \/ _/ _|
- /_/  /_/\___/\__\__|
 - 👋 Hi, I’m sachin
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning the world
@@ -9,6 +5,10 @@
 - 📫 How to reach me ? just say my name
 - 😄 Pronouns: boom/vroom
 - ⚡ Fun fact: twincam turbo all the way!!!
+-  ____ ___  __
+|__  / _ \/ /  __ __
+  / /\_, / _ \/ _/ _|
+ /_/  /_/\___/\__\__|
 
 <!---
 lovetogit/lovetogit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
